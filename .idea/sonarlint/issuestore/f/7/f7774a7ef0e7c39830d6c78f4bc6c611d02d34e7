@@ -1,0 +1,7 @@
+
+mpython:S1542"URename function "findSmallest" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(éõŞÖ
+Bpython:S1481"%Remove the unused local variable "i".(¬Üíùÿÿÿÿ
+spython:S117"WRename this local variable "newArr" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñëÎúÿÿÿÿ
+npython:S1542
+"VRename function "selectionSort" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Àıˆ£
+Xpython:PrintStatementUsage"-Replace print statement by built-in function.(£¦—Æúÿÿÿÿ

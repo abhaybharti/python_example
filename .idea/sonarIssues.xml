@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/IniToExcelUpdater">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../LearnJava/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/BinarySearch.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/BinarySearch_Exercise.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/CalculateArea.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Compound-Interest-Calculation.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Dictionary_Example.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/IniToExcelUpdater.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Iteration_And_Looping.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/List_Example.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Python_Notes">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/RemoveDuplicate.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SelectionSort.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Set_example.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SimpleInterest.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/WriteToExcel.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/factorial.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/tuples_example.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XiO_Code_SVN/XiO_QE/src/TestData/XioSetupDetails/test_config_TSW1060.ini">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XiO_Code_SVN/XiO_QE/src/TestScriptsHelper/HydrogenTestWrapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XiO_Code_SVN/XiO_QE/src/Utility/InitToExcelUpadter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XiO_Code_SVN/XiO_QE/src/Utility/UpdatedDataFromIniFileToExcel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XiO_Code_SVN/XiO_QE/test_config.ini">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../XiO_Code_SVN/XiO_QE_10_Sept/test_config.ini">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/CommonFramework/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/CommonFramework/src/TestScriptsHelper/DeviceTestWrapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/CommonFramework/src/TestScriptsHelper/DeviceWrapperBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/CommonFramework/src/TestScriptsHelper/SeleniumHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/CommonFramework/src/deviceLibrary/Config/TSW760.ini">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/CommonFramework/src/deviceLibrary/DeviceBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/CommonFramework/src/deviceLibrary/DeviceFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_Dev_11_Nov/src/TestData/CloudUIData/ConstantData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_Dev_11_Nov/src/TestData/XioUIMap/TSW.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_Dev_11_Nov/src/TestScripts/Phase4/TouchPanel/Application_Mode/Application_Mode_Device_Level.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_Dev_11_Nov/src/TestScripts/Phase4/TouchPanel/Application_Mode/Application_Mode_Group_Level.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_Dev_11_Nov/src/TestScripts/Phase4/TouchPanel/NetworkProxySettings/NetworkProxySettings_Device_TestCases.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_Dev_11_Nov/src/TestScripts/Phase4/TouchPanel/Prerequisite_TestCases/Prerequisite_Device_TestCases.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_Dev_11_Nov/src/TestScripts/Phase4/TouchPanel/Prerequisite_TestCases/Prerequisite_Group_TestCases.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_Dev_11_Nov/src/TestScripts/Phase4/TouchPanel/UX_TC/TSW_Device_UI_TestCases.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_Dev_11_Nov/src/TestScripts/Phase4/TouchPanel/UX_TC/TSW_Group_UI_TestCases.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_Dev_11_Nov/src/TestScriptsHelper/XIOCloudTestWrapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_Dev_11_Nov/src/TestSuites/TouchPanel/ApplicationMode/ApplicationMode.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_Dev_11_Nov/src/TestSuites/TouchPanel/Display/TSW_SYSTEM_SETUP_DEVICE_DISPLAY.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_Dev_11_Nov/src/TestSuites/TouchPanel/NetworkProxySettings/ToggleIssueRerun.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_Dev_11_Nov/testng.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_Dev_22_Nov/src/TestScriptsHelper/XIOCloudHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_Dev_22_Nov/testng_4Series_MobilityProject.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_QE_10_Sept/src/TestData/XioSetupDetails/testng_BasicRegression_TSCW730.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_QE_10_Sept/src/TestData/XioUIMap/TSW.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_QE_10_Sept/src/TestScripts/Phase4/TouchPanel/Audio_TC/Audio_Group_TestCases.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_QE_10_Sept/src/TestScripts/Phase4/TouchPanel/Broadcast_TC/ActivityLog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_QE_10_Sept/src/TestScripts/Phase4/TouchPanel/Broadcast_TC/Broadcast_Group_TestCases.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_QE_10_Sept/src/TestScripts/Phase4/TouchPanel/NetworkProxySettings/NetworkProxySettings_Device_TestCases.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_QE_10_Sept/src/TestScripts/Phase4/TouchPanel/NetworkProxySettings/NetworkProxySettings_Group_TestCases.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_QE_10_Sept/src/TestScripts/Phase4/TouchPanel/UX_TC/TSW_Device_UI_TestCases.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_QE_10_Sept/src/TestScripts/Phase4/TouchPanel/UX_TC/TSW_Group_UI_TestCases.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_QE_10_Sept/src/TestScriptsHelper/JsonReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_QE_10_Sept/src/TestScriptsHelper/XIOCloudHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_QE_10_Sept/src/TestScriptsHelper/XIOCloudTestWrapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_QE_10_Sept/src/TestSuites/TouchPanel/NetworkProxySettings/NetworkProxySettings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_QE_10_Sept/src/TestSuites/TouchPanel/UX_TestCases/UX_TestCases.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/XiO_June_11/XiO_Code_SVN/XiO_QE_10_Sept/test_config.ini">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

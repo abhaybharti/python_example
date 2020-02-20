@@ -1,0 +1,35 @@
+Data Types
+number - int, float
+string - a collection of chars
+boolean - true/false
+
+variable declartion -
+var = 32 => integer
+dbl = 90.65 => string
+str = "hello" => string
+flag = false => boolean
+
+Input from end user
+var = input("Enter the number:")
+print(type(var))
+
+printing to console/reading from keyboard the datatypes which is associated with the value is always a string
+
+conversion function - this method convert one data type to another
+int() - convert string to int
+float() - convert string to float
+str() - converts number/bool to string
+
+var = int(input("enter the number : ")) - first input will be read from the keyboard and then converted to integer value and assigned to the var
+
+Q1. To calculate area of circle where radius is provided by the end user
+  - ask user to enter radius
+  - store it into var rad
+  - calculate area using the formula area = 3.141*rad*rad
+  - print aread
+
+Q2. Write down a program which takes user input for principle, rate and time, based on user input calculate the simple interest the user has to pay
+principal-int
+rate-double
+time-int
+SI = (P*R*T)/100
