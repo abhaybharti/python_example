@@ -27,3 +27,10 @@ print (g)
 s = "the value of x is "+str(a) #using str conversion function
 s = "the value of x is "+repr(a) #using repr() method
 s = "the value of x is "+'a' # using backquotes(')
+
+
+sentence = 'The dog name is samy'
+print(sentence.upper())
+print(sentence.lower())
+print(sentence.capitalize())
+print(sentence.count('a'))
